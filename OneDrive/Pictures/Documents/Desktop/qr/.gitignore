@@ -1,0 +1,19 @@
+# IDE & Local Tooling
+.gemini/
+.vscode/
+.idea/
+
+# Android / Gradle Build Outputs
+.gradle/
+**/build/
+build/
+bin/
+
+# Environment Secrets & Local Properties
+local.properties
+supabase.properties
+
+# Operating System & Log Files
+Thumbs.db
+.DS_Store
+*.log
